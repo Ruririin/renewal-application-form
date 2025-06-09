@@ -2,6 +2,7 @@
   "name": "renewal-application-form",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http:///neitclem-applications/CFC_R&D_Renewal_Form",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -40,5 +41,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruririin/renewal-application-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruririin/renewal-application-form/issues"
   }
 }
